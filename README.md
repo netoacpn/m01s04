@@ -1,0 +1,1 @@
+Trata-se de repositório criado para fins de envio das atividades realizadas durante a quarta semana do primeiro módulo do DEVinHouse Clamed V2.
